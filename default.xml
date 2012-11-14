@@ -342,7 +342,7 @@
   <project path="external/hostapd" name="tpruvot/android_external_hostapd" remote="github" revision="ics" />
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
-  <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
+  <project path="jordan-kernel" name="tpruvot/jordan-kernel" revision="2.6.32-ics-mb526" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 
 </manifest>
