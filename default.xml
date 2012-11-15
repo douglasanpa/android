@@ -330,7 +330,7 @@
   <project path="hardware/realtek" name="allwinner-dev-team/android_hardware_realtek" />
   <project path="device/allwinner/a10" name="Quarx2k/android_device_a10" />
   <project path="kernel" name="linux-sunxi/linux-sunxi" revision="sunxi-3.0" />
-  <project path="kernel/arch/arm/configs" name="douglasanpa/aurora_config" />
+  <project path="kernel/arch/arm/configs" name="douglasanpa/aurora_config" revision="master" />
   <project path="external/cedarx" name="Quarx2k/android_external_cedarx.git"  />
 
 </manifest>
